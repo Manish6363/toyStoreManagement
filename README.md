@@ -48,7 +48,7 @@ Any user who wishes to buy toys using this application must first register. Afte
 ![Screenshot 2024-04-11 101414](https://github.com/Manish6363/toyStoreManagement/assets/145590479/c088360d-c2fa-413e-9d2d-c88e7d09e8fa)
 
 
-
+.
 
 
 **FLOW CHART**
