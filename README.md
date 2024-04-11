@@ -38,11 +38,11 @@ Any user who wishes to buy toys using this application must first register. Afte
 ![Screenshot 2024-04-11 101145](https://github.com/Manish6363/toyStoreManagement/assets/145590479/248ab009-74ab-4398-9117-7ee1311e1ed7)
 
 
-**Image of TOY Table**
+**Image of USER Table**
 
 ![Screenshot 2024-04-11 101343](https://github.com/Manish6363/toyStoreManagement/assets/145590479/92e5372c-9ce6-4d28-9cc8-d03b67d1dd3e)
 
 
-**Image of USER Table**
+**Image of TOY Table**
 
 ![Screenshot 2024-04-11 101414](https://github.com/Manish6363/toyStoreManagement/assets/145590479/c088360d-c2fa-413e-9d2d-c88e7d09e8fa)
