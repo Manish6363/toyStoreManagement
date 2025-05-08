@@ -1,4 +1,8 @@
-TOY STORE MANAGEMENT
+# TOY STORE MANAGEMENT
+
+
+## Technologies Used [Java + JDBC]
+
 DESCRIPTION
 ===========
 This project has two modules: Admin and User, both of which perform registration, authentication, and CRUD operations themselves.
